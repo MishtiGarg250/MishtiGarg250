@@ -5,7 +5,7 @@
   <br />
   <img src="https://img.shields.io/badge/-Full--stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Tech%20Enthusiast-success?style=flat-square&logo=codeforces&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/-Currently%20building%20AI--powered%20trading%20terminals-orange?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/-Currently%20building%20AI--powered%20trading%20terminals-orange?style=flat-square&logo=nextdotjs&logoColor=white" /> -->
 </p>
 
 ---
