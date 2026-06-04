@@ -21,11 +21,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MishtiGarg250&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" alt="MishtiGarg250's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishtiGarg250&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" />
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MishtiGarg250&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MishtiGarg250&theme=tokyonight" />
 </p>
 
----
+<div align="center">
+
+   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MishtiGarg250&theme=tokyonight" />
+
+</br>
+</br>
+
+</div>
 
 ### 💻 Technologies and Tools
 
